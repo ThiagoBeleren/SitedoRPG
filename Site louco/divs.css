@@ -1,0 +1,52 @@
+    @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Permanent+Marker&display=swap');
+    @font-face {
+        font-family: PWSurvival;
+        src: url(PWSurvival.ttf);
+    }
+    header {
+        background-image: url("https://cdn.discordapp.com/attachments/869928535740006450/873031522096132157/apocalypse-2921093-1024x576.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 700px;
+    }
+    .landing-page1 {
+        display: block;
+    }
+    .landing-page1 h2 {
+        font-size: 6rem;
+        font-family: PWSurvival;
+        color: rgb(230, 28, 28);
+        margin: 150px 30px 2px 30px /*TOP, right, down, left*/
+    }
+    .landing-page1 h3 {
+        font-family: 'Amatic SC', cursive;
+        font-size: 5.8rem;
+        color: rgb(230, 209, 20);
+        margin-left: 40px;
+    }
+    .landing-page1 p {
+        color: white;
+        font-size: 24px;
+        margin: ;
+        padding: 30px;
+    }
+    .landing-page1 button{
+        font-size: 18px;
+        border-radius: 50px;
+        border-color: blue;
+        width: 150px;
+        height: 50px;
+        margin-left: 150px;
+        background-color: rgb(18, 86, 233);
+        transition: 0.3s;
+    }
+    .landing-page1 button:hover {
+        color: rgb(212, 96, 29);
+        background-color: rgb(18, 145, 177);
+        letter-spacing: 3px;
+        width: 180px;
+        height: 70px;
+    }

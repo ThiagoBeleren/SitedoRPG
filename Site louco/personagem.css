@@ -1,0 +1,51 @@
+    body {
+        background: url("https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+    }
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        box-sizing: border-box;
+    }
+    main {
+        
+        background-color: white;
+        margin-top: 40px; /*TOP, right, down, left*/
+        margin-left: 50px;
+        margin-right: 50px;
+        border-radius: 20px;
+        opacity: 0.8;
+    }
+    main {
+        background-image: url("");
+        background-repeat: ;
+        width: ; 
+    }
+    main img {
+        border-radius: 10px;
+        margin: ;
+    }
+    main h1 {
+        margin-left: ; 
+    }
+    section {
+        float: ;
+        overflow: ;
+    }
+    section h2{
+        float: ;
+        margin-right: ;
+        font-size: ;
+        font-family: ;
+        color: ;
+    }
+    section p {
+        float: ;
+        font-size: ;
+        font-family: ;
+        color: ;
+    }
+    article {
+        float: ;
+        overflow: ;
+        margin-bottom: ;
+    }

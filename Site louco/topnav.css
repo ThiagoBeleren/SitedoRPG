@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&family=Nunito:ital,wght@1,200&display=swap');
+    
+body {
+    
+}
+    .logo {
+        font-size: 24px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin-top: 30px;
+        padding-top: 30px;
+        font-family: 'Josefin Sans', sans-serif;
+        ;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: space-around;
+        font-family: ;
+        background: ;
+        height: 8vh;
+        align-items: center;
+    }
+
+    
+    .nav-list {
+        margin-top: 50px;
+        list-style: none;
+        display: flex;
+    }
+    .nav-list a {
+        color: aliceblue;
+        font-family: 'Nunito', sans-serif;
+        font-size: 1.2rem;
+    }
+
+    .nav-list a:hover {
+        ;
+        
+    }
+    .nav-list li{
+        padding: 8px;
+        letter-spacing: 3px;
+        margin-left: 32px;
+        transition: 0.4s;
+    }
+    .nav-list li:hover {
+        background-color: #544963;
+        opacity: 0.8;
+        border-radius: 50px;
+        border-style: groove;
+        width: content-box;
+        height: content-box;
+    }
+    
